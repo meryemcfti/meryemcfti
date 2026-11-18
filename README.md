@@ -2,11 +2,11 @@
 
 ---
 
-🚀 **Yönetim Bilişim Sistemleri** son sınıf öğrencisi olarak; **IT İş Analizi**, **Agile/Scrum Proje Yönetimi** ve **Full-Stack Web Geliştirme** alanlarında iş gereksinimleri ile ölçeklenebilir teknik çözümler arasında köprü kuruyorum.
+🚀 **Yönetim Bilişim Sistemleri** son sınıf öğrencisi olarak **İş Analizi**, **Agile/Scrum Proje Yönetimi** ve **Full-Stack Web Geliştirme** alanlarında iş gereksinimleri ile teknik çözümler arasında köprü kuruyorum.
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/meryem-cfti)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meryem-cfti)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meryem_ciftci@outlook.com)
 
 ---
