@@ -6,14 +6,6 @@
 
 ---
 
-### 🎯 Çalışma Yaklaşımım & Odak Noktalarım
-
-* 🔍 **İş Analizi & Gereksinim Yönetimi:** İş problemlerini net kullanıcı hikayelerine (User Stories) ve ölçülebilir teknik gereksinimlere dönüştürme.
-* 🔄 **Çevik Süreçler (Agile/Scrum):** Ekip içi görev dağılımı, sprint planlama ve ürün yaşam döngüsü (SDLC) takibi.
-* 🌱 **Veri & Sürdürülebilirlik Odaklı Ürünler:** Kurumsal karar alma süreçlerini destekleyen web tabanlı analiz ve raporlama sistemleri geliştirme.
-
----
-
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meryem_ciftci@outlook.com)
 
