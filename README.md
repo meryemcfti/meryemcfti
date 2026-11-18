@@ -35,7 +35,7 @@
 ### 📊 Geliştirme Aktivitesi & Odak Alanları
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=meryemcfti&theme=github-dark-blue&hide_border=true&locale=tr" height="165" />
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meryemcfti&layout=donut&theme=github-dark-blue&hide_border=true&locale=tr" height="165"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meryemcfti&layout=compact&theme=tokyonight&hide_border=true&locale=tr" height="165"/>
 </p>
